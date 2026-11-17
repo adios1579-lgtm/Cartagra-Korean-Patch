@@ -1,8 +1,8 @@
 # 카르타그라 ~달에 미치는 병~ 《REBIRTH FHD SIZE EDITION》 한글 패치 — 자동 업데이트
 
-「カルタグラ～ツキ狂イノ病～《REBIRTH FHD SIZE EDITION》」(Innocent Grey) 한글 패치의 **자동 업데이트 파일**을 두는 곳입니다.
+「カルタグラ～ツキ狂イノ病～《REBIRTH FHD SIZE EDITION》」(Innocent Grey) 한글 패치를 받는 곳입니다.
 
-- 처음 설치용 한글 패치(약 1.3GB)는 이 저장소에 없습니다. 배포 글의 링크에서 받아 주세요.
+- **처음 설치**: [최신 릴리스](https://github.com/adios1579-lgtm/Cartagra-Korean-Patch/releases/latest)의 `CartagraKR_Patch_<버전>.zip`(약 1.5GB)을 받아 압축을 풀고 `CartagraKR_Patch.exe` 를 실행하세요.
 - 한글판 폴더의 `cartagra_update.exe`(바탕화면 「카르타그라 ~달에 미치는 병~」)로 게임을 켜면, 이 저장소의 최신 릴리스를 확인해 새 업데이트가 있을 때 묻고 받습니다.
 - 업데이트는 바뀐 부분만 받으며, 받은 파일과 만든 파일을 모두 해시(SHA-256)로 확인합니다. 바꾸기 전 파일은 한글판 폴더의 `_update\backup` 에 남습니다.
 - 인터넷이 안 되면 확인을 건너뛰고 바로 게임을 켭니다.
