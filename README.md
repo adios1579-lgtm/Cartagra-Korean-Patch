@@ -2,8 +2,8 @@
 
 「カルタグラ～ツキ狂イノ病～《REBIRTH FHD SIZE EDITION》」(Innocent Grey) 한글 패치를 받는 곳입니다.
 
-- **처음 설치**: [v1.0 릴리스](https://github.com/adios1579-lgtm/Cartagra-Korean-Patch/releases/tag/v1.0)의 [`CartagraKR_Patch_1.0.zip`](https://github.com/adios1579-lgtm/Cartagra-Korean-Patch/releases/download/v1.0/CartagraKR_Patch_1.0.zip)(약 1.5GB)을 받아 압축을 풀고 `CartagraKR_Patch.exe` 를 실행하세요. 설치한 뒤 게임을 켜면 자동 업데이트로 최신 판까지 올라갑니다(처음 설치용 묶음은 1.0 하나만 두고, 그 뒤 판은 업데이트 자료로만 올립니다).
-- 한글판 폴더의 `cartagra_update.exe`(바탕화면 「카르타그라 ~달에 미치는 병~」)로 게임을 켜면, 이 저장소의 최신 릴리스를 확인해 새 업데이트가 있을 때 묻고 받습니다.
+- **처음 설치**: [v1.0 릴리스](https://github.com/adios1579-lgtm/Cartagra-Korean-Patch/releases/tag/v1.0)의 [`CartagraKR_Patch_1.0.zip`](https://github.com/adios1579-lgtm/Cartagra-Korean-Patch/releases/download/v1.0/CartagraKR_Patch_1.0.zip)(약 1.5GB, 파일 이름은 1.0 이지만 내용은 최신 판)을 받아 압축을 풀고 `CartagraKR_Patch.exe` 를 실행하세요. 그 뒤 판은 게임을 켤 때 자동 업데이트로 받습니다(처음 설치용 묶음은 v1.0 자리 하나만 두고, 새 판은 업데이트 자료로만 올립니다).
+- 게임을 켜면(바탕화면 「카르타그라 ~달에 미치는 병~」이든 `cartagra_kr.exe` 든, 1.8 부터), 이 저장소의 최신 릴리스를 확인해 새 업데이트가 있을 때 묻고 받습니다.
 - 업데이트는 바뀐 부분만 받으며, 받은 파일과 만든 파일을 모두 해시(SHA-256)로 확인합니다. 바꾸기 전 파일은 한글판 폴더의 `_update\backup` 에 남습니다.
 - 인터넷이 안 되면 확인을 건너뛰고 바로 게임을 켭니다.
 
@@ -12,6 +12,7 @@
 - `update_<이전>_to_<새>.zip` — 한 단계 업데이트 자료
 
 ## 버전 기록
+- **1.8** — 게임 실행 파일을 직접 켜도 업데이트 확인(새 업데이트가 있을 때만 물음), 처음 설치용 묶음(v1.0 릴리스)을 최신 내용으로 바꿈
 - **1.7** — 글 방향을 「가로쓰기」로 두고 진행하면 일부 세로쓰기 장면에서 게임이 꺼지던 문제 고침
 - **1.6** — 오프닝·엔딩 영상의 제작진 카드 다시 만듦(한글이 원본보다 늦게·흐리게 나오던 문제, 남아 있던 일본어 흔적 고침)
 - **1.5** — 인물·지명 표기를 나무위키 기준으로 맞춤(코우즈키·아라타 타이사쿠·천리교·카요우 학원 — 대사·설정·영상 속 이름), 오프닝 포스터 장면 새로 만듦(일본어 지운 흔적 고침)
